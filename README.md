@@ -1,5 +1,5 @@
 # Mohamed Salah WWDC18-Scholarship-Submission
-Great Cities Playground
+Great Cities Playground.  
 This Playground shows you some information about 4 of the best the most famous, beautiful cities in the world.
 
 ![screenshot1](screenshot1.png)
