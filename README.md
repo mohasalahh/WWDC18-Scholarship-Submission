@@ -1,6 +1,6 @@
 # Mohamed Salah WWDC18-Scholarship-Submission
-Solar System Playground
-This Playground shows you some information about solar system planets using 3d models.
+Great Cities Playground
+This Playground shows you some information about 4 of the best the most famous, beautiful cities in the world.
 
 ![screenshot1](screenshot1.png)
 ![screenshot2](screenshot2.png)
